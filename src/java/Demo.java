@@ -17,8 +17,7 @@ public class Demo {
 
         System.out.println("分支1");
 
-        System.out.println("新加了好多好多功能");
-
         System.out.println("又添加了功能2");
+        System.out.println("功能1删除");
     }
 }
